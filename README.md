@@ -47,10 +47,13 @@
 ---
 
 ### 🏆 Certifications
-- Web Development Bootcamp  
-- Java Full Stack Course  
-- AI Tool Workshop  
-- Data Structures & Algorithms  
+
+- [Web Development Bootcamp](https://drive.google.com/file/d/10Lm8AeksWgm0I3QJ2X14ZkGcc6UaNfs3/view?usp=drive_link)  
+- [Java Full Stack Course](https://drive.google.com/file/d/1Q4X1_5PnIYj6RRVQTvLsXLfEMo_oL5L3/view?usp=drive_link)  
+- [AI Tool Workshop](https://drive.google.com/file/d/1uwhGIAKJ4zfMvfgcxuMVOdFsvkIoyFFa/view?usp=drive_link)  
+- [Data Structures & Algorithms](https://drive.google.com/file/d/129c0a-gIoVEznveRU59VV8Bmk3ogpYrA/view?usp=drive_link)  
+- [SQL Using AI Workshop](https://drive.google.com/file/d/1JmcLjWWreevb6Yq5QVm8gu07ovYTqTBJ/view?usp=drive_link)  
+- [Diploma in Computer Applications](https://drive.google.com/file/d/1DWiATk3KYyFIAVEQNxE6IdL8Ld4okTAc/view?usp=drive_link)  
 
 ---
 
