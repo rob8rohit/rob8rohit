@@ -1,81 +1,101 @@
 <h1 align="center">Hi 👋, I'm R. Rohit</h1>
-<h3 align="center">A Full Stack Developer | Java Enthusiast | Backend Developer</h3>
+<h3 align="center">Software Engineer | Java | Spring Boot | Django | LLM Integration | REST APIs</h3>
 
 <p align="center">
-  <a href="https://github.com/rob8rohit"><img src="https://komarev.com/ghpvc/?username=rob8rohit&label=Profile%20views&color=0e75b6&style=flat" alt="rob8rohit" /></a>
+  <a href="https://github.com/rob8rohit">
+    <img src="https://komarev.com/ghpvc/?username=rob8rohit&label=Profile%20views&color=0e75b6&style=flat" alt="rob8rohit" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate about **Java**, **Spring Boot**, and **Full-Stack Web Development**
-- 🎯 Strong in building scalable, RESTful applications and solving real-world problems
-- 📍 Based in Bangalore | 💼 Currently pursuing **Java Full Stack Development**
+- 🚀 Software Engineer with 9 months internship experience in **Java & Full Stack Development**
+- 🤖 Currently building **AI-powered applications using LLM APIs & Prompt Engineering**
+- 🔐 Strong in **Spring Boot, Django, REST APIs, JWT Authentication**
+- 📍 Based in India | 💼 Open to Software Engineering opportunities
 
 ---
 
-### 📚 Education
-- 🎓 **B.Tech in Information Technology** – Rungta College of Engineering (2024)
-- 🎓 **Diploma in Mechanical Engineering** – Govt. Polytechnic College (2021)
+### 💼 Internship Experience
+
+#### 🔹 Technical One (2025 – 2026)
+- Improved application performance by **30%**
+- Developed REST APIs handling **10,000+ daily requests**
+- Maintained **99.9% uptime**
+- Worked in Agile remote team environment
+
+#### 🔹 Coding Spoon (2023)
+- Built mini projects using **Java, Spring Boot & MySQL**
+- Applied Data Structures & Algorithms in backend logic
+- Improved web performance and optimization
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Languages:** Java, Advanced Java  
-- **Web Technologies:** HTML, CSS, JavaScript  
-- **Frameworks & Tools:** Spring Boot, Hibernate, GitHub, Eclipse, VS Code  
-- **Databases:** MySQL, PostgreSQL  
-- **Soft Skills:** Problem Solving, Teamwork, Communication  
+- **Languages:** Java, Advanced Java, Python, JavaScript  
+- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Django, Django REST  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Web & Security:** REST APIs, JWT, OAuth  
+- **AI & Tools:** LLM API Integration, Prompt Engineering, LangChain  
+- **Tools:** Git, GitHub, Postman, VS Code, Eclipse, Maven  
 
 ---
 
-### 💼 Projects
+### 💻 Projects
+
+#### 🔹 [AI-Enabled Job Portal Application](https://github.com/rob8rohit/Job-Portal-Web-Application)
+- Built using **Django + REST APIs + JWT**
+- Integrated **LLM APIs** for job recommendations & resume analysis
+- Designed scalable backend architecture
 
 #### 🔹 [Online Bus Ticket Booking App](https://github.com/rob8rohit/OnlineBusTicketApplication)
-- Developed full-stack booking system using **Spring Boot (REST APIs)** and **MySQL**
-- Features include user authentication (JWT), profile management, ticket history
-- Responsive UI built with **HTML/CSS/JavaScript** following MVC principles
-
-#### 🔹 [Course Enrollment System](https://github.com/rob8rohit/Course-Enrolment-System)
-- Built using **Spring Boot + Hibernate**, managing students, instructors, and course enrollment
-- Designed REST APIs for course CRUD operations and assignment logic
+- Full-stack system using **Spring Boot (REST) + MySQL**
+- Implemented JWT authentication & booking history
+- Responsive UI with HTML/CSS/JavaScript (MVC)
 
 #### 🔹 [Patient Management App](https://github.com/rob8rohit/Patient-Management-App)
-- A medical appointment and medicine tracking app using **Spring Boot & MySQL**
+- Built using **Spring Boot + Thymeleaf + MySQL**
+- Manages patient records, appointments & medicines
+- Structured MVC architecture with JPA/Hibernate
+
+---
+
+### 🎓 Education
+- 🎓 **B.Tech – Information Technology (2024)**  
+- 🎓 **Diploma – Mechanical Engineering (2021)**  
 
 ---
 
 ### 🏆 Certifications
-
-- [Web Development Bootcamp](https://drive.google.com/file/d/10Lm8AeksWgm0I3QJ2X14ZkGcc6UaNfs3/view?usp=drive_link)  
-- [Java Full Stack Course](https://drive.google.com/file/d/1Q4X1_5PnIYj6RRVQTvLsXLfEMo_oL5L3/view?usp=drive_link)  
-- [AI Tool Workshop](https://drive.google.com/file/d/1uwhGIAKJ4zfMvfgcxuMVOdFsvkIoyFFa/view?usp=drive_link)  
-- [Data Structures & Algorithms](https://drive.google.com/file/d/129c0a-gIoVEznveRU59VV8Bmk3ogpYrA/view?usp=drive_link)  
-- [SQL Using AI Workshop](https://drive.google.com/file/d/1JmcLjWWreevb6Yq5QVm8gu07ovYTqTBJ/view?usp=drive_link)  
-- [Diploma in Computer Applications](https://drive.google.com/file/d/1DWiATk3KYyFIAVEQNxE6IdL8Ld4okTAc/view?usp=drive_link)  
+- Java Full Stack – GUVI  
+- Web Development Bootcamp – Udemy  
+- Data Structures & Algorithms  
+- AI Tool Workshop  
+- SQL Using AI  
 
 ---
 
 ### 📫 Let's Connect
-- 📧 [rob8rohit@gmail.com](mailto:rob8rohit@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/r-rohit-7285a3358)  
-- 💻 [GitHub](https://github.com/rob8rohit)
+<p align="left">
+📧 <a href="mailto:rob8rohit@gmail.com">rob8rohit@gmail.com</a><br>
+🔗 <a href="https://www.linkedin.com/in/r-rohit-7285a3358">LinkedIn</a><br>
+💻 <a href="https://github.com/rob8rohit">GitHub</a>
+</p>
 
 ---
 
 ### 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -83,9 +103,11 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rob8rohit&show_icons=true&theme=radical" alt="rob8rohit" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob8rohit&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rob8rohit&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob8rohit&layout=compact&theme=radical" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rob8rohit&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rob8rohit&theme=radical" />
 </p>
+
